@@ -49,7 +49,7 @@ const [sidebar, profile, experience] = await Promise.all(
 const experienceWrapped = showdown
   .makeHtml(experience)
   .replaceAll(`\n`, ``)
-  .replace(/(<h3 .+?)(<h3>|$)/gi, `<section>$1</section>$2`)
+  .replace(/(<h3 .*?)(?=<h2 |$)/gi, `<section>$1</section>`)
 
 console.log(experienceWrapped)
 

@@ -5,10 +5,10 @@
 - Native Web Technology
 - 20 years experience
 
-# Selling points
+# Highlights
 
 - Highly recommended
-- Wide range of expertis
+- Wide range of expertise
 - Leadership experience
 - Software Craftsman
 
