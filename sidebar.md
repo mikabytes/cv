@@ -1,10 +1,3 @@
-# Skill
-
-- Software Architecture
-- Fullstack + much more
-- Native Web Technology
-- 20 years experience
-
 # Highlights
 
 - Highly recommended

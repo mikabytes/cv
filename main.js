@@ -1,4 +1,5 @@
 import Showdown from "https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js/+esm"
+import "./skills.js"
 
 const showdown = new Showdown.Converter()
 // hot-reload script
@@ -50,8 +51,6 @@ const experienceWrapped = showdown
   .makeHtml(experience)
   .replaceAll(`\n`, ``)
   .replace(/(<h3 .*?)(?=<h2 |$)/gi, `<section>$1</section>`)
-
-console.log(experienceWrapped)
 
 append(document.querySelector(`#body .left`), showdown.makeHtml(sidebar))
 append(document.querySelector(`#body .right`), showdown.makeHtml(profile))

@@ -52,6 +52,12 @@ body {
   margin-left: auto;
 }
 
+#skillsContainer {
+  position: relative;
+  height: 300px;
+  width: 220px;
+}
+
 #pic {
   width: 150px;
   height: 150px;
@@ -229,4 +235,8 @@ blockquote img {
 blockquote p:has(img) {
   display: flex;
   align-items: center;
+}
+
+img {
+  object-fit: contain;
 }

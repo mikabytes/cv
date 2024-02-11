@@ -46,8 +46,40 @@ My work with Pingdom focused on software architecture and methodologies to ensur
 
 ### Purecontent 2011 ![Purecontent](logos/purecontent.png)
 
-I worked together with Richard to take their process of content manufacturing and delivery and make a tool to streamline it and increase efficiency.
+At Purecontent, I played a pivotal role in developing a web-based collaboration platform dedicated to optimizing the end-to-end process of content creation. Tasked with creating a tool, I designed a solution that empowered contributors—writers, editors, project managers, and administrators—to seamlessly collaborate within a user-friendly and secure environment. The implemented solution involved developing stand-alone and RESTful components in Ruby, complemented by a JavaScript front-end using ExtJs technology for a "Desktop-like" experience within a web browser. As the sole creator, I assumed diverse roles, including customer relations, software architecture, development, database and server administration, design, and testing.
 
 > I have been so impressed with Mika's work for Purecontent. The system I wanted was in my head and on various pieces of paper or graphical sketches. Mika took those and interpreted them well, offering suggestions for shortcuts, improvements or extra features that could be incorporated for little extra effort. When he didn't know something, he told me, then he went off and learned about it in his own time and came back to put it into practice. Great work and we'd welcome you back for more when we're ready.
 >
 > ![Richard Blundell](people/richardblundell.jpeg) \- Richard Blundell, Finance and Operations Director
+
+## Software Engineer
+
+### Artirix 2011 - 2012 ![Artirix](logos/artirix.png)
+
+Back- and frontend development of classified ads websites in Ruby on Rails and Python.
+
+## Open Source Developer
+
+### Applied Language Solutions 2010 - 2011 ![Applied Language Solutions](logos/als.jpg)
+
+I was an open-source developer at ALS, focusing on SquidgeIt—a highly scalable and distributed platform for general-purpose applications. I led the development of a C# framework for rapid application building, ensuring compatibility on Linux/Mono and Windows/.Net. Additionally, I implemented a Ruby-based system for automated testing and deployment. My expertise encompasses C#, Mono, system design, Ruby, and internet protocols. I played a pivotal role in creating an open-source, object-oriented, and distributed system for widespread use.
+
+> Mika is an extremely self motivated and talented engineer. His enthusiasm was most welcome and his analytical skills invaluable. It was a pleasure to work with him and I wish him all the best.
+>
+> \- Mark Hartigan-Davies, Senior Software Engineer
+
+<!-- -->
+
+> Mikael is a highly inventive and innovative application developer. He has a passion for his work and is one of those rare people who both loves what he does and has a real talent for it.
+>
+> ![Gareth Gower](people/garethgower.jpeg) \- Gareth Gower, Development Manager
+
+## System Developer
+
+### Viewserve 2009 - 2011
+
+I successfully oversaw the design and implementation of a real-time data collection system for vehicles, deploying it across 900 units in Sweden, France, and Dubai. This role showcased my expertise in system design, embedded systems, C programming, and internet protocols. In a subsequent project-based position, I contributed to Viewserve's advancements by addressing challenges in 1-Wire technology, CAN, and data storage, demonstrating skills in systems engineering, project leadership, and Java development. Later, I served as the architect of a backend service for generating statistical documents using historical sensor data. This multifaceted role involved queuing systems, supporting various output formats, and ensuring platform compatibility on .Net/Windows and Mono/Linux. My contributions extended to less-priority projects, showcasing proficiency in C#, distributed systems, and diverse internet protocols.
+
+> Managing Mikael was a pleasant experience and I warmly recommend him for any type of software project. I always appreciated his constant strive to deliver software of high quality and that he wasn't afraid to challenge existing practices to achieve this. His wide competence makes him a great asset and I'm sure he will in short time become a key figure in any team.
+>
+> ![Ramzi Ferchichi](people/ramziferchichi.png) \- Ramzi Ferchichi, Software Architect
