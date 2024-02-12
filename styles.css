@@ -239,4 +239,5 @@ blockquote p:has(img) {
 
 img {
   object-fit: contain;
+  break-inside: avoid;
 }
