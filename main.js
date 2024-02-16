@@ -23,8 +23,8 @@ document.onmousemove = () => {
   movements++
 }
 
-function reveal() {
-  const one = movements < 100 ? `nonono` : `mika`
+function reveal(force) {
+  const one = !force && movements < 100 ? `nonono` : `mika`
   const two = `bytes`
   const three = `.com`
   majl.innerHTML = `${one}@${one}${two}${three}`
@@ -32,6 +32,7 @@ function reveal() {
   majl.removeEventListener(`click`, reveal)
 }
 majl.addEventListener(`click`, reveal)
+majl.addEventListener(`touchend`, () => reveal(true))
 
 function append(el, html) {
   el.appendChild(
