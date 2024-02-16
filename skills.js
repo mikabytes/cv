@@ -16,21 +16,15 @@ const skills = [
   [`Modern JavaScript`, 99],
   [`Web Apps (PWA)`, 95],
   [`Architecture & System Design`, 95],
-  [`Ruby`, 65],
-  [`C`, 65],
-  [`Database management`, 60],
-  [`Server management`, 60],
-  [`C#`, 60],
+  [`Ruby, C, C#`, 65],
+  [`Server/Database management`, 60],
   [`Kubernetes`, 50],
-  [`Leadership`, 50],
-  [`Python`, 45],
-  [`Java`, 40],
-  [`Message brokers`, 40],
+  [`Leadership, Hiring, Training`, 50],
+  [`Python, Java`, 45],
   [`Embedded Systems`, 40],
-  [`Hiring & Training`, 30],
   [`Ceph`, 20],
   [`PCB design & manufacturing`, 20],
-]
+].sort((a, b) => (b[1] < a[1] ? -1 : 1))
 
 // Text in canvas can't be parsed by robots, so do some SEO here
 document.querySelector(`#skillsContainer`).prepend(
