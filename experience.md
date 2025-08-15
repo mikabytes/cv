@@ -98,7 +98,7 @@ My expertise encompasses C#, Mono, system design, Ruby, and internet protocols. 
 
 I successfully oversaw the design and implementation of a real-time data collection system for vehicles, deploying it across 900 units in Sweden, France, and Dubai.
 
-This role showcased my expertise in system design, embedded systems, C programming, and internet protocols. In a subsequent project-based position, I contributed to Viewserve's advancements by addressing challenges in 1-Wire technology, CAN, and data storage, demonstrating skills in systems engineering, project leadership, and Java development.
+This role showcased my expertise in system design, embedded systems, C programming (embedded), and internet protocols. In a subsequent project-based position, I contributed to Viewserve's advancements by addressing challenges in 1-Wire technology, CAN, and data storage, demonstrating skills in systems engineering, project leadership, and Java development.
 
 Later, I served as the architect of a backend service for generating statistical documents using historical sensor data. This multifaceted role involved queuing systems, supporting various output formats, and ensuring platform compatibility on .Net/Windows and Mono/Linux.
 
