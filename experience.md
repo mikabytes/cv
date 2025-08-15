@@ -10,9 +10,10 @@ Automated tasks based on real-time sensor data and scheduled conditions based on
 
 This project provided valuable hands-on experience in:
 
-- Full-stack development: Designed and coded a PWA (Service Worker + Web Components) for remote control from anywhere in the world.
-- Embedded systems: Designed and manufactured custom PCBs using EasyEDA and JLCPCB for hardware control.
-- High availability infrastructure: Implemented an automatic failover system with a native data center based on Kubernetes, Ceph, and MetalLB, ensuring continuous operation.
+-   Full-stack development: Designed and coded a PWA (Service Worker + Web Components) for remote control from anywhere in the world.
+-   Embedded systems: Designed and manufactured custom PCBs using EasyEDA, KiCAD, and JLCPCB for hardware control.
+-   High availability infrastructure: Implemented an automatic failover system with a native data center based on Kubernetes, Ceph, and MetalLB, ensuring continuous operation.
+-   Experience with Rust on the ESP32-S3 platform
 
 ## Lead Developer
 
@@ -24,12 +25,12 @@ Drawing on my diverse development skills, I actively contributed to various aspe
 
 Key areas of responsibility:
 
-- System Design: Laying the blueprint for a smooth and scalable user experience.
-- Software Programming: Bringing the design to life with clean, efficient code.
-- Architecture: Ensured stability and performance by building a solid foundation.
-- Software Engineering: Implemented best practices and tools for smooth operations.
-- Hiring and Training: Mentored and trained new developers, testers, Q&A, building a skilled and collaborative team.
-- Multi-Platform Support: Ensured flawless app performance across Android, iPhone, and web.
+-   System Design: Laying the blueprint for a smooth and scalable user experience.
+-   Software Programming: Bringing the design to life with clean, efficient code.
+-   Architecture: Ensured stability and performance by building a solid foundation.
+-   Software Engineering: Implemented best practices and tools for smooth operations.
+-   Hiring and Training: Mentored and trained new developers, testers, Q&A, building a skilled and collaborative team.
+-   Multi-Platform Support: Ensured flawless app performance across Android, iPhone, and web.
 
 > Mika has architected and been solely responsible for the development of our complex single page webapp. He has a very good understanding of both application and API design and has the ability and patience to convert all plans to reality. He has also shown good leadership capabilities leading and coaching others to work with him. Mika is honest and easy to communicate with and he has an urge to always improve himself, the product, and all processes which makes it a joy to work with him to achieve something great.
 >
@@ -113,8 +114,8 @@ My contributions extended to less-priority projects, showcasing proficiency in C
 
 In parallel of my studies I also worked for the university.
 
-- Teaching & supporting
-- Examination & grading
+-   Teaching & supporting
+-   Examination & grading
 
 ## IT Support
 

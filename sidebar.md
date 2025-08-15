@@ -8,6 +8,7 @@
 # Interests
 
 - Problem solving & creativity
+- Factorio
 - Psychology
 - Movies & Books
 

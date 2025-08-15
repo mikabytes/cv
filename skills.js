@@ -24,6 +24,7 @@ const skills = [
   [`Embedded Systems`, 40],
   [`Ceph`, 20],
   [`PCB design & manufacturing`, 20],
+  [`Rust`, 15],
 ].sort((a, b) => (b[1] < a[1] ? -1 : 1))
 
 // Text in canvas can't be parsed by robots, so do some SEO here
